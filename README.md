@@ -21,7 +21,7 @@ Installation of:
 -  How can I create, copy, and delete files and directories?
 - How can I edit files?
 
-###Reading Materials
+### Reading Materials
 
 - [capentries resources](https://swcarpentry.github.io/shell-novice/)
 - [royal resources](https://swcarpentry.github.io/git-novice/)
