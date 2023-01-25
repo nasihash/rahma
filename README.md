@@ -24,6 +24,7 @@ Installation of:
 ###Reading Materials
 
 - [capentries resources](https://swcarpentry.github.io/shell-novice/)
+- [royal resources](https://swcarpentry.github.io/git-novice/)
 
 
 
